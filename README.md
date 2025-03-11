@@ -1,4 +1,4 @@
-<img src="./mamba_architecture.PNG" width="450px"></img>
+<img src="./mamba_architecture.PNG" width="800px"></img>
 
 ## MEGABYTE - Pytorch
 
